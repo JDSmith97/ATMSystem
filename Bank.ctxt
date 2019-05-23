@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bank()
+comment0.text=\r\n\ Constructor\ sets\ up\ link\ to\ database\r\n\ Database\ must\ exist\ to\ work\r\n
+comment1.params=accNumber
+comment1.target=void\ setAcNumber(long)
+comment1.text=\r\n\ Set\ the\ number\ of\ the\ selected\ account\r\n\ @param\ accNumber\ The\ account\ number\r\n
+comment2.params=accPassWord
+comment2.target=void\ setAcPasswd(long)
+comment2.text=\r\n\ Set\ the\ password\ for\ the\ selected\ account\r\n\ @param\ accPasWrd\ The\ account\ password\r\n
+comment3.params=
+comment3.target=void\ loggedOut()
+comment3.text=\r\n\ Set\ the\ internal\ state\ to\ be\ no\ access\ \r\n\ \ for\ account\ transactions\r\n
+comment4.params=
+comment4.target=boolean\ checkValid()
+comment4.text=\r\n\ Check\ account\ number\ and\ password\ is\ valid.\r\n\ if\ the\ account\ number\ and\ password\ are\ correct\ then\r\n\ set\ the\ internal\ state\ to\ be\ valid\ access\ \r\n\ @return\ success/\ failure\r\n
+comment5.params=amount
+comment5.target=boolean\ withdraw(long)
+comment5.text=\r\n\ Withdraw\ money\ from\ account\r\n\ @param\ amount\ of\ money\ to\ W/D\r\n\ @return\ success/\ failure\r\n
+comment6.params=amount
+comment6.target=boolean\ deposit(long)
+comment6.text=\r\n\ Deposit\ money\ into\ account\r\n\ @param\ amount\ of\ money\ to\ deposit\r\n\ @return\ success/\ failure\r\n
+comment7.params=
+comment7.target=long\ getBalance()
+comment7.text=\r\n\ Get\ balance\ of\ account\r\n\ @return\ balance\ of\ account\r\n
+numComments=8

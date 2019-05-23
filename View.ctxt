@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=View()
+comment0.text=\r\n\ Construct\ the\ display\r\n
+comment1.params=o\ arg
+comment1.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment1.text=\r\n\ Update\ the\ view\ as\ the\ model\ has\ changed\r\n
+comment2.params=cont
+comment2.target=void\ setController(Controller)
+comment2.text=\ \r\n\ Set\ the\ controller\ used\r\n\ @param\ cont\ The\ controller\r\n
+numComments=3

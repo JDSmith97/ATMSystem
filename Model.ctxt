@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Model()
+comment0.text=\r\n\ Construct\ the\ model\ of\ the\ ATM\r\n
+comment1.params=button
+comment1.target=void\ process(java.lang.String)
+comment1.text=\r\n\ \ process\ ATM\ transaction\r\n\ \ @param\ button\ name\ of\ pressed\ button\r\n
+comment2.params=
+comment2.target=long\ getResult()
+comment2.text=\ Return\ the\ number\ input\ \r\n\ \ @return\ The\ result\ of\ the\ transaction\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMessage1()
+comment3.text=\ Return\ message\ 1\ \r\n\ \ @return\ message\ \#1\ from\ model,\ usually\ current\ state\r\n
+comment4.params=
+comment4.target=java.lang.String\ getMessage2()
+comment4.text=\ Return\ message\ 2\r\n\ \ @return\ message\ \#2\ from\ model,\ information\ about\ what\ has\ happened\r\n
+comment5.params=
+comment5.target=void\ display()
+comment5.text=Ask\ for\ a\ redisplay\ of\ the\ ATM\ screen
+numComments=6

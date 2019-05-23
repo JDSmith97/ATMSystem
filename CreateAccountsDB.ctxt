@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ createDB()
+comment1.text=\r\n\ Create\ database\ for\ the\ first\ time\ and\ establish\ a\r\n\ \ connection\ to\ the\ database.\r\n
+comment2.params=
+comment2.target=void\ createTable()
+comment2.text=\r\n\ Create\ the\ table\ Accounts\r\n
+comment3.params=
+comment3.target=void\ populate()
+comment3.text=\r\n\ Populate\ the\ table\ \r\n
+comment4.params=
+comment4.target=void\ close()
+comment4.text=\r\n\ Close\ the\ Database\r\n
+numComments=5
